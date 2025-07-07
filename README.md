@@ -17,7 +17,7 @@ Este proyecto es una aplicación de gestión de tareas (Todos) construida con Re
 
 ## Scripts Disponibles
 
-En el directorio del proyecto puedes ejecutar:
+En el directorio del proyecto puedes ejecutar:.
 
 ### `npm start`
 
